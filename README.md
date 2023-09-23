@@ -1,4 +1,5 @@
 # apifirebase
+A api está implementada ao sistema mas não funcional ao banco de dados criado pois falta transferilo do Realtime database para o firestore onde a api está criada
 Criei a conexao para a api do firebase utilizando as extensoes no vscode firebase, express, firebase-tools, loguei no firebase utilizando $ firebase login, depois iniciei com firebase init, e subi usando firebase deploy.
 Utilizei o insomnia para fazer as requisicoes, temos GET e POST e utilizei o Base environment com o seguinte body
 {
